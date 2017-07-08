@@ -1,10 +1,10 @@
 # Surface 3D
 
-a 3 axis input instrument. 
+A 3 input axis midi-instrument.
 
-input from a 2 by 64 hall-sensor matrix is processed on an arduino pro.
+Input from a 2 by 64 hall-sensor matrix is processed on an arduino pro.
 
-### what it does:
-- get input from sensors through multiplexing
-- find / track input blobs
-- generate midi signals for blobs
+### What it does:
+- Get input from sensors through multiplexing
+- Find / track input blobs
+- Generate midi on/off/pitchbend signals for blobs
