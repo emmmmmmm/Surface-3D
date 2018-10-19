@@ -1,6 +1,6 @@
 # Surface 3D
 
-A 3 input axis midi-instrument.
+A multi-touch 3 input axis midi-instrument.
 
 Input from a 2 by 64 hall-sensor matrix is processed on an arduino pro.
 
