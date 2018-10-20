@@ -10,4 +10,4 @@ Input from a 2 by 64 hall-sensor matrix is processed on an arduino pro.
 - Generate midi on/off/pitchbend signals for blobs
 
 
-[Check the previous version with depth-tracking here](http://www.manueleisl.com/surface.html Manuel's Homepage")
+[Check the previous version with depth-tracking here](http://www.manueleisl.com/surface.html "Manuel's Homepage")
